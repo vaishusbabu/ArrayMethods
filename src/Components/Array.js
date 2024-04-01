@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 
 function Array() {
     const arr = [2, 3, 4, 6, 7, 1]
-    const str = ['apple', 'chakka', 'mangha', 'melon']
+    const str = ['apple', 'chakka', 'mangha', 'melon', 'test']
     const flat = [[1, 2], [3, 4], [5, 6]]
     const [output, setOutput] = useState('')
 
