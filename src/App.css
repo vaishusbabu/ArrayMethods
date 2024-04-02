@@ -40,5 +40,7 @@
 
 .maincontainer {
   align-items: center;
-  margin-top: 20%;
+  margin-top: 10%;
+  max-width: 40%;
+  border: #282c34;
 }
